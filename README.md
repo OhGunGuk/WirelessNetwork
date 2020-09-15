@@ -4,3 +4,4 @@
 
 ### 링크
    [png](./png/README.md)
+   [하드웨어 스펙](./rpi.md)
